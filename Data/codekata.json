@@ -1,0 +1,5 @@
+[
+    { "_id": "ck1", "user_id": "u1", "problems_solved": 45 },
+    { "_id": "ck2", "user_id": "u2", "problems_solved": 70 },
+    { "_id": "ck3", "user_id": "u3", "problems_solved": 30 }
+]

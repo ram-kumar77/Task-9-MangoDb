@@ -1,0 +1,6 @@
+[
+    { "_id": 1, "name": "John", "attendance": [{ "date": "2020-10-16", "status": "present" }] },
+    { "_id": 2, "name": "Jane", "attendance": [{ "date": "2020-10-17", "status": "absent" }] },
+    { "_id": 3, "name": "Alice", "attendance": [{ "date": "2020-10-18", "status": "present" }] }
+  ]
+  

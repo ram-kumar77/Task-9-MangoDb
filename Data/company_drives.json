@@ -1,0 +1,4 @@
+[
+    { "_id": "cd1", "company_name": "Tech Corp", "date": "2020-10-20", "attendees": ["u1", "u2"] },
+    { "_id": "cd2", "company_name": "Innovate Inc", "date": "2020-10-25", "attendees": ["u2", "u3"] }
+]
